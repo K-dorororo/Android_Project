@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_menu">
+        <item>메뉴선택</item>
+        <item>해산물</item>
+        <item>초밥</item>
+        <item>고기</item>
+        <item>육회</item>
+        <item>샤브샤브</item>
+        <item>칼국수</item>
+        <item>국밥</item>
+        <item>찌개</item>
+        <item>치킨</item>
+        <item>닭구이</item>
+        <item>분식</item>
+    </string-array>
+</resources>
